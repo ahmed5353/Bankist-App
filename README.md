@@ -31,6 +31,21 @@ Interest is calculated and added to accounts, helping your money grow over time.
 ### Timers
 Timers are utilized for features like automatic logout after a period of inactivity, ensuring account security.
 
+
+
+### Technologies Used
+
+HTML5: Used for structuring the web pages.
+
+CSS3: Utilized for styling and layout of the application.
+
+JavaScript (ES6+): Implemented for dynamic interactivity and functionality.
+
+### Performance Optimization
+Lazy Loading: Implemented lazy loading for images to improve initial page load times and conserve bandwidth.
+
+Image Compression Tools: Employed tools to decrease photo size, optimizing performance by reducing page load times and conserving bandwidth.
+
 ## Getting Started
 
 ### Prerequisites
