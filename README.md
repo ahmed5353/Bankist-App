@@ -8,8 +8,8 @@ Welcome to Bankist, your virtual banking experience brought to life! This web ap
 Users have unique usernames and PINs for authentication, ensuring secure access to their accounts.
 
 #### Fake Users and Passwords
-- User1: Username: `js`, Password: `1111`
-- User2: Username: `jd`, Password: `2222`
+- User1: Username: `an`, Password: `1111`
+- User2: Username: `mt`, Password: `2222`
 
 ### Dashboard
 Get an overview of your current balance and review your recent transactions at a glance.
