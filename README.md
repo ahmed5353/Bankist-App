@@ -1,6 +1,6 @@
 # Bankist Web Application
 
-Welcome to Bankist, your virtual banking experience brought to life! This web application simulates a basic online banking system, offering a range of functionalities to manage your finances conveniently. Whether you're checking your balance, making deposits, or requesting loans.
+This web application simulates a basic online banking system, offering a range of functionalities to manage your finances conveniently. Whether you're checking your balance, making deposits, or requesting loans.
 ## Key Functionalities
 
 ### Login
